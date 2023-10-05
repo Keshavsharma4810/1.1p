@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    font-family: verdana;
+}
+p {
+    color: red;
+    font-family: courier;
+}
+table, th, td {
+    border: 1px solid black;
+  }
